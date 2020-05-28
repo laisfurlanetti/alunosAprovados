@@ -1,0 +1,7 @@
+C:\Users\Avatar\Desktop\Aulas\Exercicios decisao\alunosAprovados\bin\Debug\alunosAprovados.exe.config
+C:\Users\Avatar\Desktop\Aulas\Exercicios decisao\alunosAprovados\bin\Debug\alunosAprovados.exe
+C:\Users\Avatar\Desktop\Aulas\Exercicios decisao\alunosAprovados\bin\Debug\alunosAprovados.pdb
+C:\Users\Avatar\Desktop\Aulas\Exercicios decisao\alunosAprovados\obj\Debug\alunosAprovados.csprojAssemblyReference.cache
+C:\Users\Avatar\Desktop\Aulas\Exercicios decisao\alunosAprovados\obj\Debug\alunosAprovados.csproj.CoreCompileInputs.cache
+C:\Users\Avatar\Desktop\Aulas\Exercicios decisao\alunosAprovados\obj\Debug\alunosAprovados.exe
+C:\Users\Avatar\Desktop\Aulas\Exercicios decisao\alunosAprovados\obj\Debug\alunosAprovados.pdb
